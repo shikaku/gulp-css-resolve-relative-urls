@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-resolve-relative-urls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CSS relative urls resolve plugin for gulp",
   "main": "index.js",
   "dependencies": {
