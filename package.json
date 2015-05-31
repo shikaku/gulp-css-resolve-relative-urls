@@ -1,0 +1,23 @@
+{
+  "name": "gulp-css-resolve-relative-urls",
+  "version": "0.0.1",
+  "description": "CSS relative urls resolve plugin for gulp",
+  "main": "index.js",
+  "dependencies": {
+    "replacestream": "~2.0.0",
+    "through2": "~0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shikaku/gulp-css-resolve-relative-urls.git"
+  },
+  "author": "shikaku.aa <shikaku.aa@gmail.com> (http://github.com/shikaku)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shikaku/gulp-css-resolve-relative-urls/issues"
+  }
+}
